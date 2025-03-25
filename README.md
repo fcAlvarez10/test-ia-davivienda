@@ -42,8 +42,6 @@ flowchart LR
     D --> E((Salida: Chiste generado))
 ```
 
-[![](https://mermaid.ink/img/pako:eNo9kUtOwzAQhq9izaqV0ipp0jRkAaKPXSshkFhAWIzsSWqR2NXE4dX2QKw5ABK9GGla8Moz_zffWPIWpFUEKeSlfZVrZCeWt5kR7bnu9RbGMSpMxY1lkeOLZU_I5vBpHFYkGiPkWteOhv2-GAwuxfRxuVyJDVtJNYoSRW1LLbVr1NNJOe2w2faeWOdaotSHLyO0ccQG9ydmdmR2P9-LWmCr2mhU9mon5p27IEOMgsrz5rN33nkXvd4dlvr43lmXnnFl-33woGCtIHXckAcVcYXHErZHQwZuTRVlkLZXhfycQWb27cwGzYO11d8Y26ZYQ5pjWbdVs1HoaK6xYKz-u0xGEc9sYxykQRx0Eki38AZplAzD8SjywyDwx6MwvvDgvYUm8TAZRXGQjMIwafPx3oOPbq0_TAI_CSZt5MeRP44jD0hpZ3l1-jZpTa4L2P8CURuPuA?type=png)](https://mermaid.live/edit#pako:eNo9kUtOwzAQhq9izaqV0ipp0jRkAaKPXSshkFhAWIzsSWqR2NXE4dX2QKw5ABK9GGla8Moz_zffWPIWpFUEKeSlfZVrZCeWt5kR7bnu9RbGMSpMxY1lkeOLZU_I5vBpHFYkGiPkWteOhv2-GAwuxfRxuVyJDVtJNYoSRW1LLbVr1NNJOe2w2faeWOdaotSHLyO0ccQG9ydmdmR2P9-LWmCr2mhU9mon5p27IEOMgsrz5rN33nkXvd4dlvr43lmXnnFl-33woGCtIHXckAcVcYXHErZHQwZuTRVlkLZXhfycQWb27cwGzYO11d8Y26ZYQ5pjWbdVs1HoaK6xYKz-u0xGEc9sYxykQRx0Eki38AZplAzD8SjywyDwx6MwvvDgvYUm8TAZRXGQjMIwafPx3oOPbq0_TAI_CSZt5MeRP44jD0hpZ3l1-jZpTa4L2P8CURuPuA)
-
 #### ¿Qué es LangChain?
 LangChain es una biblioteca en Python que facilita la creación de flujos de trabajo (cadenas) para interactuar con modelos de lenguaje. Permite combinar diferentes componentes —como prompts, modelos y herramientas externas— con el fin de construir aplicaciones que aprovechen de manera óptima las capacidades de los LLM.
 
