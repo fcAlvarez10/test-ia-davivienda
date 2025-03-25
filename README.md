@@ -1,26 +1,16 @@
-# Prueba Técnica: Equipo IA Davivienda
 
-## Contexto de Negocio
+![Imagen de portada](/media/robot_sand.jpg)
 
-El banco Davivienda está interesado en potenciar la automatización de tareas y procesos mediante el uso de herramientas de Inteligencia Artificial (IA). Para ello, busca capacitar a su personal en habilidades relacionadas con IA y modelos de lenguaje (LLMs), con el objetivo de resolver problemas complejos y reducir la procrastinación derivada de la falta de claridad en objetivos.
-
-Se espera que, al abordar esta prueba, hagas uso de plataformas de IA como ChatGPT o Gemini para respaldar tu proceso de pensamiento y programación, incluso si no posees un conocimiento previo profundo de estas tecnologías. Precisamente, la intención es evaluar la forma en que aplicas estas herramientas para enfrentar un problema y cómo estructuras el flujo de trabajo.
-
+# Planificador de Viaje con IA
 
 ## Contexto del Problema
 
-En el mundo laboral, la procrastinación y los flujos de trabajo desordenados son un fenómeno común, particularmente entre estudiantes universitarios o personal que no ocupa cargos administrativos. Esto suele deberse a la falta de claridad en los objetivos de las tareas que se les asignan.
+Imagina que el Banco Davivienda desea desarrollar una herramienta que ayude a sus usuarios a planificar un viaje de la manera más completa posible, con el propósito de presentar la información requerida a una embajada. Este plan debe abarcar la compra o reservación de tiquetes, la definición de fechas de viaje, la selección de tours, alojamientos y cualquier otro elemento que la embajada exija para justificar el viaje.
 
-Supongamos que a un ingeniero de software (SWE) en una startup se le asigna la tarea de construir una página de inicio de sesión para una aplicación web. La situación se vuelve confusa y desalentadora cuando intenta comenzar a programar y surgen preguntas como: 
+La complejidad surge al coordinar cada detalle para cumplir con los requisitos específicos de la embajada. Además de comprar o reservar los tiquetes, es necesario garantizar que las fechas sean coherentes, las actividades turísticas estén bien justificadas y el itinerario completo se documente de forma clara. Con tantas variables y pasos, pueden surgir dudas sobre el orden de las tareas, las herramientas a utilizar y cómo organizar todo para presentarlo de manera convincente.
 
-- "¿Debo construir primero el servidor de autenticación o crear la interfaz frontal?" 
-- "¿Cuales son las tareas que tengo que hacer?"
+Este proyecto busca ayudar en el análisis y organización de las tareas que los usuarios necesitan completar para armar su plan de viaje. Para ello, se apoya en la capacidad de los Modelos de Lenguaje (LLMs) para descomponer la información y generar un flujo de trabajo ordenado, adaptándose a los patrones de comportamiento del usuario y ofreciendo sugerencias que faciliten la presentación del itinerario ante la embajada.
 
-Esas preguntas pueden derivar en cuestiones más pequeñas, volviendo la tarea confusa y fomentando la procrastinación. Este fenómeno es fácilmente replicable en distintas industrias.
-
-Este proyecto busca ayudar en el análisis y la organización de las tareas que los usuarios necesitan completar. Se basa en la capacidad de los Modelos de Lenguaje (LLMs) para descomponer cualitativamente la información con este propósito. Asimismo, implicará un análisis de comportamiento que ajuste el estilo de trabajo según los patrones de cómo los usuarios abordan diferentes tareas, con el fin de generar una sugerencia de flujo de trabajo óptimo.
-
----
 
 ## Orientación para Abordar la Tarea
 
