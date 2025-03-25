@@ -1,4 +1,4 @@
-# Prueba Técnica: Evaluación del Pensamiento Crítico
+# Prueba Técnica: Equipo IA Davivienda
 
 ## Contexto de Negocio
 
