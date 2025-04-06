@@ -1,0 +1,3 @@
+py -3.12 -m pip install python-dotenv
+py -3.12 -m pip install langchain-community
+py -3.12 -m pip install langchain-google-genai
